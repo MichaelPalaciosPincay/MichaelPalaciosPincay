@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Michael, desarrollador full-stack con pasión por construir aplicaciones web funcionales y con buen diseño.  <br>Trabajo principalmente con Laravel y Vue.js, utilizando Tailwind para interfaces limpias y responsivas.<br><br>Aquí comparto proyectos que me ayudan a aprender y a mejorar continuamente.  <br>Si quieres contactarme o colaborar, ¡no dudes en hacerlo!<br><br>🚀 Siempre aprendiendo, siempre mejorando.<br>
+¡Hola! Soy Michael, desarrollador Fronted con pasión por construir aplicaciones web funcionales y con buen diseño.  <br>Trabajo principalmente con Laravel y Vue.js, utilizando Tailwind para interfaces limpias y responsivas.<br><br>Aquí comparto proyectos que me ayudan a aprender y a mejorar continuamente.  <br>Si quieres contactarme o colaborar, ¡no dudes en hacerlo!<br><br>🚀 Siempre aprendiendo, siempre mejorando.<br>
 
 
 ## 🌐 Socials:
@@ -14,4 +14,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MichaelPp2020&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
